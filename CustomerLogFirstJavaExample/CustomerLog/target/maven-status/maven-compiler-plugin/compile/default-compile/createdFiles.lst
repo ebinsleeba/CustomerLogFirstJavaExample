@@ -1,0 +1,7 @@
+resources\CustomerResource$2.class
+configuration\CustomerRestConfiguration.class
+resources\CustomerResource.class
+dao\CustomerDAO.class
+utility\DatabaseConnection.class
+modal\Customer.class
+resources\CustomerResource$1.class
